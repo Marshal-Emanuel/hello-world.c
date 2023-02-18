@@ -1,0 +1,19 @@
+
+Setters and Getter	
+//Must have a class with private varibales
+Must create a construcrot /Obljcet in an alterative class and file
+ to acess the private variable, use getMethodName();
+To pass a value to tyhe variable, use setMthodName(); ie ClassName.setMethodName("Value");
+
+class vars{
+	private String name;
+	private String level;
+	private int age;
+
+	public String getName(){
+	return name;
+	}
+	public void setName(String name){
+	this.name=name
+	{
+}
