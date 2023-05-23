@@ -24,7 +24,7 @@ int main(){
 			break;
 		
 		case'E':
-			printf("fail, scored below 40\n");
+			printf("fail, scored below 40 \n");
 			break;
 		
 		default:
