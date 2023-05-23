@@ -12,7 +12,7 @@ int main(){
 			break;
 		
 		case'B':
-			printf("credit, scored between 60 to 70\n");
+			printf("Credit, scored between 60 to 70\n");
 			break;
 		
 		case'C':
