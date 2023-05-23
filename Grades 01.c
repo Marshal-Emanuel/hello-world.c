@@ -16,7 +16,7 @@ int main(){
 			break;
 		
 		case'C':
-			printf("satisfactory,scored between 50 to 60\n");
+			printf("satisfactory, scored between 50 to 60\n");
 			break;
 		
 		case'D':
