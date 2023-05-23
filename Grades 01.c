@@ -28,7 +28,7 @@ int main(){
 			break;
 		
 		default:
-			printf("invalid results");
+			printf("invalid results !");
 			break;
 	}
 	return 0;
