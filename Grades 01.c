@@ -2,7 +2,7 @@
 int main(){
 	char grade;
 	
-	printf("select grade( A,B,C,D,E ):");
+	printf("select grade( A, B,C,D,E ):");
 	scanf("%c",&grade);
 	
 	switch(grade)
