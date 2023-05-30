@@ -8,7 +8,7 @@ int main(){
 	switch(grade)
 	{
 		case'A':
-			printf("Excellent, scored 70 and above\n");
+			printf("Excellent, scored 70 and above \n");
 			break;
 		
 		case'B':
