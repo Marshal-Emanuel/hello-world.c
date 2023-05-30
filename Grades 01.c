@@ -20,7 +20,7 @@ int main(){
 			break;
 		
 		case'D':
-			printf("Pass, scored between 40 to 50\n");
+			printf("Pass, scored between 40 to 50 \n");
 			break;
 		
 		case'E':
