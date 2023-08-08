@@ -3,7 +3,7 @@ class Cat extends Animals{
     int age;
     public Cat(String name, String color, int age) {
         super(name, color);
-        //TODO Auto  
+        //TODO Auto 
     }
 
     
