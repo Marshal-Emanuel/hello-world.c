@@ -3,7 +3,8 @@ class Cat extends Animals{
     int age;
     public Cat(String name, String color, int age) {
         super(name, color);
-        //TODO Auto  generated constructor stub
+        //TODO Auto  generated 
+        constructor stub
     }
 
     
