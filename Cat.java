@@ -1,4 +1,4 @@
-class Cat extends Animals{ 
+class Cat extends Animals{  
 
     int age;
     public Cat(String name, String color, int age) {
