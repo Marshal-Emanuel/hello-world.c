@@ -1,7 +1,7 @@
 class Cat extends Animals{
 
     int age;
-    public Cat(String n ame, String color, int age) {
+    public Cat(String name, String color, int age) {
         super(name, color);
         //TODO Auto
     }
